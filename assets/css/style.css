@@ -279,7 +279,13 @@ h1, h2 {
    hr {
       display: none;
    }
-
+   
+   #times > div {
+      width: 100%;
+      clear: both;
+      height: 150px;
+      padding: 0;
+   }
  }
 
  /*for media screen sizes from 850px wide and down*/
